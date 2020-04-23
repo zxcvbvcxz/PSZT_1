@@ -7,9 +7,12 @@ WE: plik z listą zadań, liczba M procesorów. WY: harmonogram zadań i suma op
 
 Zespół:
 Bogusław Malewski
+
 Jakub Pietrowcew
 
 Pliki testowe:
 200.txt
+
 200_a.txt
+
 1000.txt
